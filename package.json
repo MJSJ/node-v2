@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "description": "node server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "@mjsj/node-server": "git+ssh://git@gitlab.com/MJSJ/node-server.git"
+  },
+  "author": "",
+  "keywords": [
+    "node server"
+  ],
+  "license": "ISC"
+}
